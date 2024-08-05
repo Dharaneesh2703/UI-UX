@@ -19,4 +19,9 @@ The primary audience for this website includes designers, developers, and stakeh
 Additional Information:
 This project demonstrates the application of best practices in UI/UX design, focusing on user satisfaction and engagement. It aims to be an exemplary model for creating user-friendly and visually appealing digital experiences.
 
+Profesional website 1-https://www.figma.com/design/U0UnKi9cqMaBaEGpZIIRCJ/Website-1?node-id=1-10815&t=jS7ZfuVBUdQ0mSsG-1
+Profesional websie 2-https://www.figma.com/design/g8LbCotqIUSvyKajYS39h4/website-2?node-id=0-1&t=LuqNQTAGdGyXVL7Q-1
+
+Healthcare website 1-
+
 
