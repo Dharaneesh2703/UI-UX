@@ -22,6 +22,7 @@ This project demonstrates the application of best practices in UI/UX design, foc
 Profesional website 1-https://www.figma.com/design/U0UnKi9cqMaBaEGpZIIRCJ/Website-1?node-id=1-10815&t=jS7ZfuVBUdQ0mSsG-1
 Profesional websie 2-https://www.figma.com/design/g8LbCotqIUSvyKajYS39h4/website-2?node-id=0-1&t=LuqNQTAGdGyXVL7Q-1
 
-Healthcare website 1-
+Healthcare website 1-https://www.figma.com/design/zDPQTD3CmPLyL8jcBGZCXs/HEALTH-WEB-1?node-id=0-1&t=8VrkETYdGmNc2aRl-1
+Healthcare website 2-https://www.figma.com/design/ZsnMS61DsfXmZHMkRgKvyg/Health-care--2?node-id=0-1&t=L8ISpbn6FjhFN0gf-1
 
 
